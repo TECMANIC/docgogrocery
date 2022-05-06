@@ -15,5 +15,7 @@ In order {{ site.prodname }} backend works properly, is necessary your server or
 ### MySQL Server
 {: .mx-8 }
 <br />
-[Next Topic](cleaninstall/step1.html){: .btn .btn-purple }
-{: .text-right }
+<p class="text-center">
+    <a href="#" class="btn btn-purple disabled">Prev Step</a>
+    <a href="cleaninstall/step1.html" class="btn btn-purple">Next Step</a>
+</p>

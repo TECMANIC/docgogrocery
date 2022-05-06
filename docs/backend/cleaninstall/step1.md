@@ -16,17 +16,17 @@ You will need to upload zip file to your server and extract it there. There are 
 
 2. Open the uncompressed folder and locate the ZIP File named "Backend.zip".
 
-After this, you have different courses of action. You can select the most comfortable for you. We will explain the most and easy common ways you can complete the task.
+After this, you have different courses of action. You can select the most comfortable you feel with. We will explain in detail the options that can help you to complete the task.
 
 ### Upload using HTTP File Manager
 {: .mx-3 }
- Log-in to your web hosting services and access the File Manager provided within.
+ Log-in to your web hosting services and access the File Manager provided within. Upload backend zip file in root folder.
  {: .mx-3 }
 
-There are different kinds of user interfaces on the Internet so we suggest you ask your Hosting Provider if there are further questions on how to upload zip file to the main folder. Usually when you upload the file this way root folder can be named "/" or "public_html" and file will be there.
+There are different kinds of user interfaces on the Internet. Usually, when you upload a file this way, the root folder can be named “/” or “public_html” and you can find the file there. We suggest asking your hosting provider or server admin, if the file can not be located or if you may need further assistance in regards to the path through which uploaded files are addressed.
 {: .mx-3 }
 
-Extract the files and you will have a similar view like the one it shows next.
+Next, extract the files and you will have a similar folder structure to the one in the image.
 {: .mx-3 }
 
 ![Requirements Verification Screen](/assets/images/backend_installer/uploadhttp.png)
@@ -35,7 +35,7 @@ Extract the files and you will have a similar view like the one it shows next.
 ### Upload using FTP or SFTP Software
 {: .mx-3}
 
-Select the FTP or SFTP Client you know is secure or the best option for you. We include a separate article to explain [How To Upload Files using FTP or SFTP Protocol](/docs/backend/how-to/upload-sftp.html)  
+Select the FTP or SFTP Client you know is secure or the best option for you. We include a separate article to explain how to use one if this is your first time [How To Upload Files using FTP or SFTP Protocol](/docs/backend/how-to/upload-sftp.html)  
 {: .mx-3}
 
 ## Access to the Web Installer through your Web Browser
@@ -44,3 +44,8 @@ Web Installer automatically detects your server meets minimal requirements befor
 
 ![Requirements Verification Screen](/assets/images/backend_installer/req_ok.jpeg)
 {: .text-center }
+
+<p class="text-center">
+    <a href="requirements.html" class="btn btn-purple">Prev Step</a>
+    <a href="step2.html" class="btn btn-purple">Next Step</a>
+</p>
