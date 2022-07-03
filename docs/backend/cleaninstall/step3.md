@@ -9,8 +9,8 @@ parent: Backend Configuration
 
 **Note: Make sure you already created the database you are going to configure within the Web Installer.**
 
-1. Enter Database Hostname **(Default: localhost)**
-2. Enter Database Username <small> **(You should ask your server administrator for this data and make sure this user was granted all administrative priviledges)** </small>
+1. Enter Database Hostname <small>**(Default: localhost)**</small>
+2. Enter Database Username <small> **(You should ask your server administrator for this data and make sure this user was granted all administrative privileges)** </small>
 3. Enter Database Password 
 4. Enter the name of the Database you created for GoGrocer
 

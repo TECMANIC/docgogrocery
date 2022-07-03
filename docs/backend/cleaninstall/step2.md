@@ -8,13 +8,18 @@ parent: Backend Configuration
 
 # Step 2 - Entering your License Information
 
-1. Copy License Information that you received from your purchase on CodeCanyon
+Before entering the license information, make sure you have copied the correct information that installation process finishes successfully. You can get this data by visiting this [link](https://codecanyon.net/downloads).
+
+Then, click on the website section like the image shown below.
+![Obtaining your license information from CodeCanyon](/assets/images/backend_installer/licensecode.png)
+
+1. Copy License Information that you received from your purchase on CodeCanyon (**Use the exact information entered on CodeCanyon or the process is going to fail**)
 2. Paste into the corresponding fields.
 
 ![Requirements Verification Screen](/assets/images/backend_installer/step2.jpeg)
 {: .text-center }
 
-**Note: Make sure entered information is accurate so you don't face any difficulties in License Validation process.**
+**Note: Verify entered information is accurate so you don't face any difficulties in License Validation process.**
 
 
 <p class="text-center">

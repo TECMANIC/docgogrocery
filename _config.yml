@@ -23,6 +23,8 @@ prodversion: 1.0.0
 title: GoGrocer Backend Documentation
 email: support@tecmanic.com
 logo: /assets/images/logo.png
+images_path: /assets/images/
+animations_path: /assets/animated/
 color_scheme: dark
 description: >- # this means to ignore newlines until "baseurl:"
   This is the official GoGrocer Backend Documentation where you will find exact information about the most frequent questions in a comprenhensive way to configure your backend correctly.

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How to .. Upload using SFTP Protocol
+title: Upload using SFTP Protocol
 parent: How To
 grand_parent: Backend Configuration
 nav_order: 1
@@ -23,10 +23,11 @@ To complete the steps we are going to mention, focus on this section in the user
 ![Input here the information](/assets/images/howto/quickconnect-sftp.png)
 
 1. In the field Host, enter sftp.yourdomain.com, substituting “yourdomain.com” with your own domain name. Write in lowercase only, and do not use “www” in front of the domain name.
-2. Enter your Username, which is simply your domain name (yourdomain.com), also without “www”.
+2. Enter your Username, some servers are configured using your domain name (yourdomain.com), also without “www”. If there are any doubts ask your system's administrator or check server configuration.
 3. Enter your Password. This should be the one you choose for SFTP/SSH when activating access in the control panel.
-4. Enter the Port number. For SFTP, this is 22.
+4. Enter the Port number. For SFTP, default port this is 22.
 5. Click on Quickconnect or press Enter to connect to the server.
 
-If SFTP Protocol would not be available in your server, you can connect over FTPS which still adds a layer of security when connecting to a remote host. If not possible, then do it over FTP protocol.
+If SFTP Protocol would not be available in your server, you can connect over FTPS **(just use ftps:// before your domain name to use FTPS Protocol)** which still adds a layer of security when connecting to a remote host. If not possible, then do it over FTP protocol.
 ## Connection using FTP Protocol
+If you would like to connect over FTP Protocol, repeat steps above but use ftp as a subdomain, using always lowercase only, and avoiding the use of "www" in front of the domain name.
