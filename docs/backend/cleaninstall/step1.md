@@ -40,7 +40,7 @@ Select the FTP or SFTP Client you know is secure or the best option for you. We 
 
 ## Access to the Web Installer through your Web Browser
 
-Web Installer automatically detects your server meets minimal requirements before to continue. If everything works correctly, you should see this screen when you access http://[% DOMAIN %]/grocer/verification
+Web Installer automatically detects your server meets minimal requirements before to continue. If everything works correctly, you should see this screen when you access http://[% DOMAIN %]/ it should redirect you to http://[% DOMAIN %]/verification, or you can access the last direction yourself to start web installation.
 
 ![Requirements Verification Screen](/assets/images/backend_installer/req_ok.jpeg)
 {: .text-center }

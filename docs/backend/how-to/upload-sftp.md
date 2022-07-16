@@ -31,3 +31,6 @@ To complete the steps we are going to mention, focus on this section in the user
 If SFTP Protocol would not be available in your server, you can connect over FTPS **(just use ftps:// before your domain name to use FTPS Protocol)** which still adds a layer of security when connecting to a remote host. If not possible, then do it over FTP protocol.
 ## Connection using FTP Protocol
 If you would like to connect over FTP Protocol, repeat steps above but use ftp as a subdomain, using always lowercase only, and avoiding the use of "www" in front of the domain name.
+
+-----------
+Your problem isn't included in the documentation? [Ask our experts](/sendingTicket)

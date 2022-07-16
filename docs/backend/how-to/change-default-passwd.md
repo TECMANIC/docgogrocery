@@ -19,5 +19,5 @@ First, you may access your admin panel with the default credentials. After succe
 **If you follow all the steps correctly, you have now successfully updated default admin credentials**
 
 <p class="text-center">
-    <a href="/docs/backend/how-to/" class="btn btn-purple">Return to Articles</a>
+    <a href="/docs/backend/how-to/" class="btn btn-purple">Return to Backend Articles</a>
 </p>

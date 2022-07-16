@@ -33,7 +33,7 @@ You can complete the set up of your Backend to use Google Maps API, by following
 4. Click on Google Map On Button to save the API Key in the database.
 
 <p class="text-center">
-    <a href="/docs/backend/how-to/" class="btn btn-purple">Return to Articles</a>
+    <a href="/docs/backend/how-to/" class="btn btn-purple">Return to Backend Articles</a>
 </p>
 
 -----------

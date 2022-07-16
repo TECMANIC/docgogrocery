@@ -22,7 +22,7 @@ After completing the information, press next button on the Web Installer. You wi
 ![Requirements Verification Screen](/assets/images/backend_installer/step3_verification.jpeg)
 {: .text-center }
 
-When you click the button, you may have to wait a little time before the script completes the installation of all tables in the database. In the end, you will receive a confirmation message that the application is properly configured and you can proceed to the last step.
+When you click the button, you may have to wait a little time before the script completes the installation of all tables in the database. In the end, you will receive a confirmation message that the application is properly configured and you can click proceed to the last step.
 
 <p class="text-center">
     <a href="step2.html" class="btn btn-purple">Prev Step</a>

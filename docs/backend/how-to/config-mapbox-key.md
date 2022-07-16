@@ -31,7 +31,7 @@ Now, you can complete the set up of your Backend to use MapBox API, by following
 4. Click on MapBox On button to save the API Key in the database.
 
 <p class="text-center">
-    <a href="/docs/backend/how-to/" class="btn btn-purple">Return to Articles</a>
+    <a href="/docs/backend/how-to/" class="btn btn-purple">Return to Backend Articles</a>
 </p>
 
 -----------

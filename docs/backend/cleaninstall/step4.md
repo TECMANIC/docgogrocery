@@ -12,11 +12,13 @@ After completing successfully all the steps in the Web Installer, you should pro
 ![Requirements Verification Screen](/assets/images/backend_installer/step4.jpeg)
 {: .text-center }
 
+If Web Installer does not redirect you to the login, enter http://[% DOMAIN %]/login to enter your credentials and start configuring your backend.
+
 To access for the first time, you should type the default username and password :
-```
+
     Default Username: admin@demo.com
     Default Password: tecmanic
-```
+
 To change the default username and password, you should follow this [article](/docs/backend/how-to/change-default-passwd.html)
 
 <p class="text-center">

@@ -2,21 +2,21 @@
 layout: default
 title: Installation
 nav_order: 1
-parent: User App Setup
+parent: Driver App Setup
 grand_parent: Mobile App Configuration
 ---
-# User App Installation
+# Driver App Installation
 ## Package Information
 
-    App name: GoGrocer User App
-    Package name: com.gogroceruser.app
+    App name: GoGrocer Driver App
+    Package name: com.gogrocerdelivery.app
     Technology: Flutter (Cross Platform)
 
 ***
 
 ## Installation Guide 
 
-### Requeriments to Install {{ site.prodname }} User App
+### Requeriments to Install {{ site.prodname }} Driver App
 
 * Flutter properly Installed on your computer <small>**(follow the steps [here](https://docs.flutter.dev/get-started/install/windows))**</small>.
 
@@ -24,10 +24,10 @@ grand_parent: Mobile App Configuration
 
 * Run the below commands in the Visual Studio Code Terminal
 
-        flutter create -i swift -a java GoGrocer User App
-        cd GoGrocer User App
+        flutter create -i swift -a java GoGrocer Driver
+        cd GoGrocer Driver
         flutter clean
-        flutter run 
+        flutter run
 
 * To generate apk
 
@@ -35,7 +35,7 @@ grand_parent: Mobile App Configuration
         flutter build apk --release 
 
 <p class="text-center">
-    <a href="/docs/mobile/user/" class="btn btn-purple">Return to UserApp Articles</a>
+    <a href="/docs/mobile/driver/" class="btn btn-purple">Return to Driver App Articles</a>
 </p>
 
 -----------

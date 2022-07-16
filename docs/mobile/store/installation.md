@@ -2,13 +2,13 @@
 layout: default
 title: Installation
 nav_order: 1
-parent: User App Setup
+parent: Store App Setup
 grand_parent: Mobile App Configuration
 ---
-# User App Installation
+# Store App Installation
 ## Package Information
 
-    App name: GoGrocer User App
+    App name: GoGrocer Store App
     Package name: com.gogroceruser.app
     Technology: Flutter (Cross Platform)
 
@@ -16,18 +16,19 @@ grand_parent: Mobile App Configuration
 
 ## Installation Guide 
 
-### Requeriments to Install {{ site.prodname }} User App
+### Requeriments to Install {{ site.prodname }} Store App
 
 * Flutter properly Installed on your computer <small>**(follow the steps [here](https://docs.flutter.dev/get-started/install/windows))**</small>.
 
 * To setup Flutter with VSCode <small>**(follow the steps [here](https://docs.flutter.dev/get-started/editor?tab=vscode))**</small>.
 
 * Run the below commands in the Visual Studio Code Terminal
-
-        flutter create -i swift -a java GoGrocer User App
-        cd GoGrocer User App
+    
+        flutter create -i swift -a java GoGrocer Vendor
+        cd GoGrocer Vendor
         flutter clean
-        flutter run 
+        flutter run
+        
 
 * To generate apk
 
@@ -35,7 +36,7 @@ grand_parent: Mobile App Configuration
         flutter build apk --release 
 
 <p class="text-center">
-    <a href="/docs/mobile/user/" class="btn btn-purple">Return to UserApp Articles</a>
+    <a href="/docs/mobile/store/" class="btn btn-purple">Return to Store App Articles</a>
 </p>
 
 -----------
